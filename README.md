@@ -27,3 +27,50 @@ HTML5 – Structure of the game
 CSS3 – Styling and responsive layout
 
 JavaScript (ES6) – Game logic and interactivity
+<hr>
+🎮 How to Play
+
+Open the game in your browser (index.html).
+
+Read each question carefully.
+
+Select your answer from the options.
+
+Get instant feedback (correct ✅ / incorrect ❌).
+
+Your score will be displayed at the end of the quiz.
+
+Play again to improve your score!
+<hr>
+📸 Screenshots
+<br>
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/e2aed351-175d-4d27-9ee0-6dd4156ab445" />
+<br>
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/948e2562-b1c7-4f8e-809f-f65996cdad07" />
+<br>
+<hr>
+🔧 Setup & Run Locally
+
+Clone this repository:
+
+git clone https://github.com/your-username/interactive-quiz-game.git
+
+
+Navigate to the project folder:
+
+cd folder_name
+<hr>
+
+Open index.html in your browser.
+
+📌 Future Enhancements
+
+🔊 Add sound effects for correct/incorrect answers
+
+📊 Add a leaderboard/high-score system
+
+🌍 Fetch quiz questions from an API for variety
+
+📱 Improve mobile responsiveness
+
+
