@@ -30,17 +30,17 @@ JavaScript (ES6) – Game logic and interactivity
 <hr>
 🎮 How to Play
 
-Open the game in your browser (index.html).
+1)Open the game in your browser (index.html).
 
-Read each question carefully.
+2)Read each question carefully.
 
-Select your answer from the options.
+3)Select your answer from the options.
 
-Get instant feedback (correct ✅ / incorrect ❌).
+4)Get instant feedback (correct ✅ / incorrect ❌).
 
-Your score will be displayed at the end of the quiz.
+5)Your score will be displayed at the end of the quiz.
 
-Play again to improve your score!
+-->Play again to improve your score!
 <hr>
 📸 Screenshots
 <br>
@@ -53,7 +53,7 @@ Play again to improve your score!
 
 Clone this repository:
 
-git clone https://github.com/your-username/interactive-quiz-game.git
+git clone https://github.com/your-username/Interactive-quiz-game.git
 
 
 Navigate to the project folder:
